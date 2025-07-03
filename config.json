@@ -1,0 +1,8 @@
+{
+  "startDate": "2024-01-01",
+  "endDate": "2024-12-31",
+  "delayBetweenRequests": 2000,
+  "delayBetweenAccounts": 3000,
+  "autoDateRange": true,
+  "daysBack": 7
+}
